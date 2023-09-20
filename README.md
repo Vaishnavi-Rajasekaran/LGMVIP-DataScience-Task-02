@@ -24,12 +24,12 @@ The Image to Various Sketch Converter is a data science project that leverages c
 ## Filters
 -The project supports a range of sketch filters and techniques, including but not limited to:
 
-Pencil Sketch
-blue Sketch
-cartoon Sketch
-Inverted Sketch
-Grayscale sketch
-Blur Sketch
+* Pencil Sketch
+* blue Sketch
+* cartoon Sketch
+* Inverted Sketch
+* Grayscale sketch
+* Blur Sketch
 ## Contributing
 -We welcome contributions from the community! If you have ideas for new features, bug fixes, or improvements, please feel free to open an issue or submit a pull request
 ## Source
